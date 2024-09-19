@@ -1,0 +1,15 @@
+/Evaluacion-Riesgos-OpenAPI-ToCupboard
+  /docs
+    README.md
+    INFORME_DE_RIESGOS.md
+  /src
+    /api
+      api_evaluada.js
+    /test_pipelines
+      pruebas_automatizadas.py
+  /security
+    vulnerabilidades_reportadas.json
+    mitigacion_riesgos.yaml
+  /ci_cd
+    Jenkinsfile
+    .gitlab-ci.yml
