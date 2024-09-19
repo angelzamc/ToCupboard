@@ -26,9 +26,15 @@ Este repositorio contiene toda la documentación, código y resultados de la **E
 - **Python** (versión X.X para las pruebas automatizadas)
 - Herramientas de CI/CD: **Jenkins** o **GitLab CI**
 
+1. **Clona el repositorio:**
 ## Ejecución de Pruebas de Seguridad
 
-1. **Clona el repositorio:**
+2. Para ejecutar las pruebas de seguridad, navega a la carpeta `/src/test_pipelines` y ejecuta:
+
+
+
+
+
 
    ```bash
    git clone https://github.com/ToCupboard/Evaluacion-Riesgos-OpenAPI-ToCupboard.git
